@@ -15,6 +15,7 @@ Several such data sets exist already , but for this project , i have used the Ge
 6 Pooling: reducing the size of an input by sampling from regions in the input.
 7 , Convolutional neural network: neural networks that use convolution, usually for analyzing images.
 8 , Recurrent neural network: neural network that generates output that feeds back into its own inputs.
+
 𝘼𝙡𝙜𝙤𝙧𝙞𝙩𝙝𝙢𝙨 :
 1 , Gradient descent: algorithm for minimizing loss when training neural network.
 2 , Backpropagation: algorithm for training neural networks with hidden layers.
