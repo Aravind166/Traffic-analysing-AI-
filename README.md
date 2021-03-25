@@ -19,3 +19,5 @@ Several such data sets exist already , but for this project , i have used the Ge
 𝘼𝙡𝙜𝙤𝙧𝙞𝙩𝙝𝙢𝙨 :
 1 , Gradient descent: algorithm for minimizing loss when training neural network.
 2 , Backpropagation: algorithm for training neural networks with hidden layers.
+
+link for explanation : https://www.youtube.com/watch?v=Xxa9weW8HfY 
